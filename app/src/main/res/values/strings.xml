@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DryCleaning</string>
+    <string name="return_back_text_button">Назад</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="edit_text_mail_hint">Введити email</string>
+    <string name="edit_text_password_hint">Введите пароль</string>
+    <string name="forgotten_password"><u>Забыли пароль?</u></string>
+    <string name="greeting">Просто, быстро, чисто</string>
+</resources>
